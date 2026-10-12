@@ -1,0 +1,11 @@
+{
+  "org": "strawberry-graphql",
+  "repo": "strawberry-django",
+  "versions": [
+    {
+      "commit": "fd3f6502fce162effca1eafc0749c52ca0bae508",
+      "tag": "0.93.0",
+      "parsed_at": "2026-10-12T19:50:06.453732+00:00"
+    }
+  ]
+}
